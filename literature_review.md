@@ -33,4 +33,7 @@ thanks to their ability to model long-term dependencies and complex temporal pat
 
 ## Summary
 These models demonstrate the effectiveness of Transformer architectures for time series
+
 forecasting, motivating their adoption in the proposed case study.
+
+Experiments are implemented in self-consistent notebooks that perform training and evaluation in a simplified form. The aim is to demonstrate compliance with methodological requirements rather than providing an industrial pipeline
